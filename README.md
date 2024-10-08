@@ -1,4 +1,5 @@
 # AWS Tools and Programming - Challenge #1
+![fb71cb15-93d0-4af0-b5d7-976704d4af43](https://github.com/user-attachments/assets/5760c40e-62c7-4c5c-baaf-02f1e4a406e5)
 
 We are excited to announce our first community AWS Tools and Programming challenge!
 
