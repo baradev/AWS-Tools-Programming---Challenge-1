@@ -50,4 +50,5 @@ For any questions, please contact barboraklusackova@gmail.com.
 
 Good luck to all participants!
 
-![Alt text](/Users/barbora/Projects/AWS-Tools-Programming---Challenge-1/AWSchallenge.jpg)
+
+![AWSchallenge](https://github.com/user-attachments/assets/7bf81e83-7841-4068-8e70-c88172695f87)
