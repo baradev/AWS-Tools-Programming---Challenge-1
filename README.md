@@ -51,5 +51,4 @@ For any questions, please contact barboraklusackova@gmail.com.
 
 Good luck to all participants!
 
-
-![AWSchallenge](https://github.com/user-attachments/assets/7bf81e83-7841-4068-8e70-c88172695f87)
+![AWSFreeTier 11](https://github.com/user-attachments/assets/3e8c1254-dab7-4a30-b41f-dada471b10d7)
